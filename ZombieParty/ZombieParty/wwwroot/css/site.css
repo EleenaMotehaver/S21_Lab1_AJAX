@@ -79,3 +79,11 @@ body {
 label {
   font-size: 1rem;
 }
+
+/* Surligner le weapon dans l'index*/
+.highlight {
+    background: darkviolet;
+    opacity: 0.5;
+    color: white;
+}
+
